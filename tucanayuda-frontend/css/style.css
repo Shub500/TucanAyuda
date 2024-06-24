@@ -1,0 +1,63 @@
+/* 
+ Theme Name:   bari-child
+ Theme URI:    
+ Description:  
+ Author:       hatcher
+ Author URI:   https://hatch2web.com/
+ Template:     bari
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ /* == Add your own styles below this line ==
+--------------------------------------------*/
+
+.print-pdf {
+    background: #fff;
+    padding: 10px;
+	border: 2px solid #BE1125;
+    border-radius: 10px;
+}
+ul.printorpdf {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.printorpdf a:hover {
+    color: #BE1125;
+}
+span.elementor-icon-list-icon {
+    float: left;
+}
+span.close-pdf {
+    position: absolute;
+    right: 10px;
+    font-family: 'Raleway';
+    top: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    color:  #BE1125;
+}
+nav.navigation.post-navigation {
+    display: none;
+}
+a.back-list {
+    background: #BE1125;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+/*li.elementor-icon-list-item.elementor-inline-item.checkeditem {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+}
+ .combSpan {
+    display: flex !important;
+    align-items: center !important;
+}*/
+@media screen and (max-width:767px) {
+	.print-pdf {
+    width: 50%:
+}
+}
