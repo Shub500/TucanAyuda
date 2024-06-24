@@ -1,4 +1,4 @@
-# tucanayuda-frontend 🎨
+# TucánAyuda Frontend 🎨
 
 This repository contains front-end customizations for [TucánAyuda](https://tucanayuda.com), a Spanish-language website providing college admission advice to Costa Rican students.
 
